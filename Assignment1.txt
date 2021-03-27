@@ -1,0 +1,12 @@
+Project Link: https://expo.io/@jgarc659/projects/Assignment1
+
+The flow of the app is as follows:
+- On startup, Work Timer is enabled by default
+- On startup, the "Work Time" and "Break Time" text fields are each set to 5 minutes and 0 seconds.
+- The Reset button wil set the running timer back to the values in the "Work Time" or "Break Time"
+text fields (depending on which timer is running).
+- Hitting the Reset button will stop the timer from running after reset.
+- Changing values in the text fields will cause a real-time update in the running timer, 
+which does not stop running.
+- If changing the text input value for the non-running timer, the currently running timer is not affected.
+- Erasing values in the text fields will set them to 0.
